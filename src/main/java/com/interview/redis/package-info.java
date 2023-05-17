@@ -9,6 +9,8 @@ package com.interview.redis;
  *
  * @question2:redis的线程模型
  *
+ * @question3:请详细讲一下redis的非阻塞式IO和多路复用,并讲出它的实现原理
+ *
  *
  *
  *
