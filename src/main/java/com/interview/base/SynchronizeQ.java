@@ -5,6 +5,8 @@ package com.interview.base;
  * @Description
  * @Date 4:15 PM 5/16/2023
  *
+ * @请谈一下对Java中synchronize的理解
+ *
  * 在Java中，关键字"synchronize"用于实现多线程之间的同步。它可以应用于方法或代码块，并确保在同一时间只有一个线程可以访问被同步的代码段。下面是对Java中"synchronize"的深入理解：
  *
  * 1. 保证原子性：synchronized关键字用于对临界区代码进行加锁，确保多个线程无法同时执行被同步的代码块或方法。这样可以保证代码块或方法中的操作是原子的，
@@ -24,4 +26,20 @@ package com.interview.base;
  *
  */
 public class SynchronizeQ {
+
+    /**
+     * 同步代码块（Synchronized Blocks）：除了使用synchronized修饰整个方法外，还可以使用synchronized修饰一段代码块，称为同步代码块。这样可以在方法中只对某一部分代码进行同步，而不是整个方法。
+     */
+    public void someMethod() {
+        // 非同步代码
+        synchronized (this) {
+            // 需要同步的代码
+        }
+        // 非同步代码
+    }
+
 }
+
+
+
+
