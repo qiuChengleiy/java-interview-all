@@ -6,6 +6,7 @@
 ## 相关文章
 
 - [查漏补缺第一期(Redis相关)](https://mp.weixin.qq.com/s/ETAVvqwU3ZkB0MDtQ8hBAg)
+- [查漏补缺第二期(synchronized & 锁升级)](https://mp.weixin.qq.com/s/KbVOq7CKza8Pdp1DDPjD5A)
 
 
 ## 项目源码(源码已更新 欢迎star⭐️)
