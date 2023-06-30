@@ -20,7 +20,7 @@
 - [查漏补缺第十三期(滴滴实习一面)](https://mp.weixin.qq.com/s/B6Myjth7nd-ieBtCV7Q0-Q)
 - [查漏补缺第十四期(滴滴实习二面)](https://mp.weixin.qq.com/s/G-hmZJDTY0gr4qvrbRBGyg)
 - [查漏补缺第十五期(华为一面)](https://mp.weixin.qq.com/s/lio5r9YlX1UKqkeBrZLEeg)
-
+- [查漏补缺第十六期(华为二面)](https://mp.weixin.qq.com/s/7jqkMzY4h5zcWBRQCZOM9A)
 
 
 
