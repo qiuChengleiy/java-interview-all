@@ -21,6 +21,8 @@
 - [查漏补缺第十四期(滴滴实习二面)](https://mp.weixin.qq.com/s/G-hmZJDTY0gr4qvrbRBGyg)
 - [查漏补缺第十五期(华为一面)](https://mp.weixin.qq.com/s/lio5r9YlX1UKqkeBrZLEeg)
 - [查漏补缺第十六期(华为二面)](https://mp.weixin.qq.com/s/7jqkMzY4h5zcWBRQCZOM9A)
+- [查漏补缺第十七期(华为三面)](https://mp.weixin.qq.com/s/IvNY9_Iz4uwAoT1vLvjogw)
+- [查漏补缺第十八期(你了解class文件吗)](https://mp.weixin.qq.com/s/lLsgqQcNNWJ_Q6xyUywXYw)
 
 
 
